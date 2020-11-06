@@ -22,7 +22,8 @@
 
 ### Languages and Tools
 
-![](https://img.shields.io/static/v1?label=Python&message=<MESSAGE>&color=<COLOR>?logo=appveyor)
+![](https://img.shields.io/static/v1?label=%20&message=Python&style=for-the-badge&logo=python&color=green)
+
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/python.svg"/>]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/cplusplus.svg"/>]

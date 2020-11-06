@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently learning system design and marketing.
 - 👯 I’m looking to collaborate on Python and C++ projects.
-- 💬 Ask me about programming, software design and philosophy 
+- 💬 Ask me about programming, software design and music.
 - 📫 How to reach me: malay.hazarika@gmail.com
 - 🥅 2020 Goals: Learn how to build and impliment a plan.
-- ⚡ Fun fact: I play guitar and read. I am interest in philosophy, psychology, mathematics, marketing and music.
+- ⚡ Fun fact: I play guitar and read. I am interest in philosophy, psychology, mathematics, marketing, music and somemore thigs 🤣
 
 ### Connect with me:
 
@@ -18,6 +18,15 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+### Languages and Tools
+
+![](https://img.shields.io/static/v1?label=Python&message=<MESSAGE>&color=<COLOR>?logo=appveyor)
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/python.svg"/>]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/cplusplus.svg"/>]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/django.svg"/>]
 
 
 [website]: https://thehazarika.com

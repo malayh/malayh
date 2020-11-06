@@ -20,9 +20,10 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
-### Languages and Tools
 
-![](https://img.shields.io/static/v1?label=%20&message=Python&style=for-the-badge&logo=python&color=green)
+### Languages and Tools:
+
+![Python](https://img.shields.io/static/v1?label=%20&message=Python&style=for-the-badge&logo=python&color=green)
 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/python.svg"/>]

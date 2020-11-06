@@ -23,18 +23,21 @@
 
 ### Languages and Tools:
 
-![Python](https://img.shields.io/static/v1?label=%20&message=Python&style=for-the-badge&logo=python&color=green)
+[<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg"/>]
+[<img align="left" alt="C++" width="22px" src="https://simpleicons.org/icons/cplusplus.svg"/>]
+[<img align="left" alt="Django" width="22px" src="https://simpleicons.org/icons/django.svg"/>]
+[<img align="left" alt="Postgresql" width="22px" src="https://simpleicons.org/icons/postgresql.svg"/>]
+[<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/linux.svg"/>]
+[<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/git.svg"/>]
 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/python.svg"/>]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/cplusplus.svg"/>]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://simpleicons.org/icons/django.svg"/>]
 
 
 [website]: https://thehazarika.com
 [twitter]: https://twitter.com/theHazarika/
 [instagram]: https://www.instagram.com/thehazarika/
 [linkedin]: https://www.linkedin.com/in/malay-hazarika/
+
 
 <!--
 **malayh/malayh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

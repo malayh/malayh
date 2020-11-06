@@ -23,14 +23,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg"/>]
-[<img align="left" alt="C++" width="22px" src="https://simpleicons.org/icons/cplusplus.svg"/>]
-[<img align="left" alt="Django" width="22px" src="https://simpleicons.org/icons/django.svg"/>]
-[<img align="left" alt="Postgresql" width="22px" src="https://simpleicons.org/icons/postgresql.svg"/>]
-[<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/linux.svg"/>]
-[<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/git.svg"/>]
+<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg"/>
+<img align="left" alt="C++" width="22px" src="https://simpleicons.org/icons/cplusplus.svg"/>
+<img align="left" alt="Django" width="22px" src="https://simpleicons.org/icons/django.svg"/>
+<img align="left" alt="Postgresql" width="22px" src="https://simpleicons.org/icons/postgresql.svg"/>
+<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/linux.svg"/>
+<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/git.svg"/>
 
-
+<br/>
+<br/>
 
 
 [website]: https://thehazarika.com
@@ -39,17 +40,3 @@
 [linkedin]: https://www.linkedin.com/in/malay-hazarika/
 
 
-<!--
-**malayh/malayh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

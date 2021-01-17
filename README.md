@@ -30,10 +30,6 @@
 <code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/linux.png"></code>
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/git.png"></code>
 
-
-<br/>
-<br/>
-
 ---
 
 ### 📕 Latest Blog Posts

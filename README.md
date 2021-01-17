@@ -48,7 +48,7 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of 
 
 ![Malay's github stats](https://github-readme-stats.vercel.app/api?username=malayh&count_private=true&hide=prs,issues,contribs)
-![Git stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Git stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malayh&layout=compact)
 
 [website]: https://thehazarika.com
 [twitter]: https://twitter.com/theHazarika/

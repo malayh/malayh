@@ -6,7 +6,7 @@
 ## I am a Developer and an amateur writer.
 
 - 🌱 I’m currently learning system design and marketing.
-- 👯 I’m looking to collaborate on Python and C++ projects.
+- 👯 I’m looking for a startup where I can contribute as a sofrware engineer.
 - 💬 Ask me about programming, software design and music.
 - 📫 How to reach me: malay.hazarika@gmail.com
 - 🥅 2020 Goals: Learn how to build and impliment a plan.

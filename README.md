@@ -10,7 +10,7 @@
 - 💬 Ask me about programming, software design and music.
 - 📫 How to reach me: malay.hazarika@gmail.com
 - 🥅 2020 Goals: Learn how to build and impliment a plan.
-- ⚡ Fun fact: I play guitar and read. I am interest in philosophy, psychology, mathematics, marketing, music and somemore thigs 🤣
+- ⚡ Fun fact: I play guitar and read. I am interest in philosophy, psychology, mathematics, marketing, music and things
 
 ### Connect with me:
 

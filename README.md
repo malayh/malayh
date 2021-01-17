@@ -14,21 +14,22 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="thehazarika.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="theHazarika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Malay Hazarika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="thehazarika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg"/>
-<img align="left" alt="C++" width="22px" src="https://simpleicons.org/icons/cplusplus.svg"/>
-<img align="left" alt="Django" width="22px" src="https://simpleicons.org/icons/django.svg"/>
-<img align="left" alt="Postgresql" width="22px" src="https://simpleicons.org/icons/postgresql.svg"/>
-<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/linux.svg"/>
-<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/git.svg"/>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/python.png"></code>
+<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/cpp.png"></code>
+<code><img height="20" alt="Django" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/django.png"></code>
+<code><img height="20" alt="Postgresql" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/postgres.svg"></code>
+<code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/linux.png"></code>
+<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/git.png"></code>
+
 
 <br/>
 <br/>

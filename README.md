@@ -38,6 +38,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RSA Cryptosystem](https://thehazarika.com/blog/programming/rsa-cryptosystem/)
+- [How to use SOLID as a framework to approach design problems: Low level design Part #1](https://thehazarika.com/blog/programming/how-to-use-solid-as-a-framework-to-approach-design-problems/)
+- [4 design mistakes you will make as software developer: Low level design, Part #0](https://thehazarika.com/blog/programming/design-mistakes-you-will-make-as-software-developer/)
+- [10 ideas to reverse engineer web apps : Web scraping 101](https://thehazarika.com/blog/programming/how-to-reverse-engineer-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://thehazarika.com

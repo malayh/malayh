@@ -45,7 +45,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-![Malay's github stats](https://github-readme-stats.vercel.app/api?username=malayh&count_private=true)
+![Malay's github stats](https://github-readme-stats.vercel.app/api?username=malayh&count_private=true&hide=prs,issues,contribs)
 
 [website]: https://thehazarika.com
 [twitter]: https://twitter.com/theHazarika/

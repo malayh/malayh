@@ -44,6 +44,9 @@
 - [10 ideas to reverse engineer web apps : Web scraping 101](https://thehazarika.com/blog/programming/how-to-reverse-engineer-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+![Malay's github stats](https://github-readme-stats.vercel.app/api?username=malayh&count_private=true)
+
 [website]: https://thehazarika.com
 [twitter]: https://twitter.com/theHazarika/
 [instagram]: https://www.instagram.com/thehazarika/

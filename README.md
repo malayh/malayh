@@ -35,6 +35,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Design Pattern you must know as a developer: Low Level Design Part #2](https://thehazarika.com/blog/programming/design-patterns-you-must-know/)
 - [RSA Cryptosystem](https://thehazarika.com/blog/programming/rsa-cryptosystem/)
 - [How to use SOLID as a framework to approach design problems: Low level design Part #1](https://thehazarika.com/blog/programming/how-to-use-solid-as-a-framework-to-approach-design-problems/)
 - [4 design mistakes you will make as software developer: Low level design, Part #0](https://thehazarika.com/blog/programming/design-mistakes-you-will-make-as-software-developer/)

@@ -25,11 +25,13 @@
 
 <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/python.png"></code>
 <code><img height="20" alt="C++" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/cpp.png"></code>
+<code><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="Django" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/django.png"></code>
 <code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="Postgresql" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/postgres.svg"></code>
 <code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/linux.png"></code>
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/malayh/malayh/main/assert/git.png"></code>
+
 ---
 
 ### 📕 Latest Blog Posts

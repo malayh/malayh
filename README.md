@@ -5,8 +5,8 @@
 
 ## I am a Developer and an amateur writer.
 
-- 🌱 I’m currently learning system design and marketing.
-- 👯 I’m looking for a startup where I can contribute as a sofrware engineer.
+- 🌱 I’m currently learning about distributed systems and machine learning
+- 👯 I’m looking for fun things to do
 - 💬 Ask me about programming, software design and music.
 - 📫 How to reach me: malay.hazarika@gmail.com
 - 🥅 2021 Goals: Learn how to build and implement a plan.

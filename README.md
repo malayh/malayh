@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning about distributed systems and machine learning
 - 👯 I’m looking for fun things to do
 - 💬 Ask me about programming, software design and music.
-- 📫 How to reach me: malay.hazarika@gmail.com
 - 🥅 2021 Goals: Learn how to build and implement a plan.
 - ⚡ Fun fact: I play guitar and read. I am interest in philosophy, psychology, mathematics, marketing, music and things
 

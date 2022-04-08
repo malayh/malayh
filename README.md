@@ -6,8 +6,8 @@
 ## I am a Developer and an amateur writer.
 
 - 🌱 I’m currently learning about health and fitness.
-- 👯 I’m looking for fun things to do
-- 💬 Ask me about programming, software design and music.
+- 👯 I’m looking for fun things to do and fun conversations.
+- 💬 Let's talk about anything, I am interested in ideas.
 - 🥅 2022 Goals: Learn how to build and implement a plan.
 - ⚡ Fun fact: I play guitar and read. I am interest in philosophy, psychology, mathematics, marketing, music and things
 

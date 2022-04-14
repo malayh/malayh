@@ -37,6 +37,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to avoid context switching penalty : Productivity 101](https://thehazarika.com/blog/how-to-avoid-context-switching-penalty)
 - [6 Design Patterns you must know as a developer: Low Level Design Part #2](https://thehazarika.com/blog/programming/design-patterns-you-must-know/)
 - [RSA Cryptosystem](https://thehazarika.com/blog/programming/rsa-cryptosystem/)
 - [How to use SOLID as a framework to approach design problems: Low level design Part #1](https://thehazarika.com/blog/programming/how-to-use-solid-as-a-framework-to-approach-design-problems/)

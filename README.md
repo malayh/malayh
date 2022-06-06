@@ -9,7 +9,7 @@
 - 💻 I'm currently learning Golang
 - 👯 I’m looking for fun things to do and fun conversations.
 - 💬 Let's talk about anything, I am interested in ideas.
-- 🥅 2022 Goals: Get better at time management
+- 🥅 2022 Goals: Get better at time management and planning 
 - ⚡ Fun fact: I play guitar and read. I am interest in philosophy, psychology, mathematics, marketing, music and a lots of other things
 
 ### Connect with me:

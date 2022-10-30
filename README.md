@@ -5,8 +5,7 @@
 
 ## I am a Developer and an amateur writer.
 
-- 🌱 I’m currently learning about health and fitness.
-- 💻 I'm currently learning Golang
+- 🌱 I’m currently learning about heath&fitness, music production and machine learning
 - 👯 I’m looking for fun things to do and fun conversations.
 - 💬 Let's talk about anything, I am interested in ideas.
 - 🥅 2022 Goals: Get better at time management and planning 

@@ -27,6 +27,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to work with me](https://thehazarika.com/blog/work-with-me)
 - [How to avoid context switching penalty : Productivity 101](https://thehazarika.com/blog/how-to-avoid-context-switching-penalty)
 - [6 Design Patterns you must know as a developer: Low Level Design Part #2](https://thehazarika.com/blog/programming/design-patterns-you-must-know/)
 - [RSA Cryptosystem](https://thehazarika.com/blog/programming/rsa-cryptosystem/)
@@ -41,11 +42,8 @@
 <div align="">
   <h2> <strong> My Github Stats </strong> </h2>
 
-  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=malayh&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
-
   <img src="https://streak-stats.demolab.com?    user=malayh&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=malayh&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div>
 
 <br>

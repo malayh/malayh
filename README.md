@@ -6,13 +6,10 @@
  <img src="https://komarev.com/ghpvc/?username=malayh&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 
 
-## I am a Developer and an amateur writer.
-
-- 🌱 I’m currently learning about heath&fitness, music production and machine learning
+- 🌱 Currently building [Osuite](https://osuite.io)
 - 👯 I’m looking for fun things to do and fun conversations.
-- 💬 Let's talk about anything, I am interested in ideas.
-- 🥅 2022 Goals: Get better at time management and planning 
-- ⚡ Fun fact: I play guitar and read. I am interest in philosophy, psychology, mathematics, marketing, music and a lots of other things
+- 💬 I am interested in ideas and putting them into practice. I love engineering.
+- 🥅 2024 Goals: Learn sales. 
 
 ### Connect with me:
 

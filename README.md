@@ -9,7 +9,7 @@
 - 🌱 Currently building [Osuite](https://osuite.io)
 - 👯 I’m looking for fun things to do and fun conversations.
 - 💬 I am interested in ideas and putting them into practice. I love engineering.
-- 🥅 2024 Goals: Learn sales. 
+- 🥅 2025 Goals: Learn sales. 
 
 ### Connect with me:
 
@@ -34,19 +34,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-  
-<div align="">
-  <h2> <strong> My Github Stats </strong> </h2>
-
-  <img src="https://streak-stats.demolab.com?    user=malayh&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
-
-</div>
-
-<br>
-
-
-[![Malay's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=malayh&custom_title=Malay's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [website]: https://thehazarika.com
 [twitter]: https://twitter.com/theHazarika/
